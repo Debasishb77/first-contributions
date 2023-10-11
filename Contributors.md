@@ -8,7 +8,7 @@
 - [Queenie Lee](https://github.com/queenie-lee)
 - [Salar Loran Telo](https://github.com/SalarTelo)
 - [Anabi Asah](https://github.com/prof-anabi)
-- [Debasish](https://github.com/Debasishb77)
+- [Debasish Bhola](https://github.com/Debasishb77)
 - [Biswa Baibhab Subudhi](https://github.com/biswabaibhab007)
 -[Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
